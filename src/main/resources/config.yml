@@ -1,0 +1,4 @@
+# Configuration de l'API UHC (uhc-api)
+# Durée d'un épisode en secondes (par défaut 1200 = 20 minutes)
+episodes:
+  length-seconds: 1200

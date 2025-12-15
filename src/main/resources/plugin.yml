@@ -1,0 +1,12 @@
+name: UHC-API
+main: main.java.fr.hirabi.uhc.api.api
+version: 1.0.0
+author: Hirabi_
+load: POSTWORLD
+depend:
+  - UHC_RAT
+commands:
+  uhcapi:
+    description: Ouvre la configuration de l'API UHC
+    usage: /uhcapi
+    permission: uhcapi.config
